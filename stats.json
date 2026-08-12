@@ -1,0 +1,265 @@
+{
+  "username": "cathrynlavery",
+  "generated": "2026-08-12T08:34:20.801Z",
+  "today": {
+    "date": "2026-08-12",
+    "total": 5661,
+    "byRepo": {
+      "RonanRx/ronanrx-core": {
+        "additions": 839,
+        "deletions": 29
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 2,
+        "deletions": 2
+      },
+      "cathrynlavery/diagram-design": {
+        "additions": 4820,
+        "deletions": 896
+      }
+    }
+  },
+  "week": {
+    "total": 943914,
+    "byRepo": {
+      "BestSelf-Company/helm-focus-app": {
+        "additions": 9703,
+        "deletions": 465
+      },
+      "RonanRx/ronanrx-core": {
+        "additions": 12796,
+        "deletions": 29757
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 69651,
+        "deletions": 2939
+      },
+      "cathrynlavery/diagram-design": {
+        "additions": 7294,
+        "deletions": 1073
+      },
+      "mvanhorn/cli-printing-press": {
+        "additions": 1,
+        "deletions": 1
+      },
+      "RonanRx/elitecarepharmacy.net": {
+        "additions": 1042,
+        "deletions": 78
+      },
+      "RonanRx/printing-press-library": {
+        "additions": 818854,
+        "deletions": 12248
+      },
+      "BestSelf-Company/helm-macos": {
+        "additions": 5,
+        "deletions": 0
+      },
+      "cathrynlavery/nontechnical-dev": {
+        "additions": 1536,
+        "deletions": 1094
+      },
+      "BestSelf-Company/goalgetter": {
+        "additions": 471,
+        "deletions": 6
+      },
+      "cathrynlavery/non-technical-skill": {
+        "additions": 650,
+        "deletions": 32
+      },
+      "BestSelf-Company/Helm-iOS": {
+        "additions": 100,
+        "deletions": 0
+      },
+      "cathrynlavery/littlemight": {
+        "additions": 699,
+        "deletions": 49
+      },
+      "cathrynlavery/repo-atlas": {
+        "additions": 135,
+        "deletions": 5
+      },
+      "BestSelf-Company/bestself-theme": {
+        "additions": 178,
+        "deletions": 89
+      },
+      "cathrynlavery/agent-improvement-loop": {
+        "additions": 4613,
+        "deletions": 1437
+      },
+      "cathrynlavery/openclaw-workspace": {
+        "additions": 16186,
+        "deletions": 180
+      }
+    }
+  },
+  "byDay": {
+    "2026-08-11": {
+      "BestSelf-Company/helm-focus-app": {
+        "additions": 295,
+        "deletions": 17
+      },
+      "RonanRx/ronanrx-core": {
+        "additions": 1134,
+        "deletions": 4460
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 771,
+        "deletions": 494
+      },
+      "cathrynlavery/diagram-design": {
+        "additions": 2474,
+        "deletions": 177
+      },
+      "mvanhorn/cli-printing-press": {
+        "additions": 1,
+        "deletions": 1
+      },
+      "RonanRx/elitecarepharmacy.net": {
+        "additions": 98,
+        "deletions": 10
+      },
+      "RonanRx/printing-press-library": {
+        "additions": 817784,
+        "deletions": 12226
+      },
+      "BestSelf-Company/helm-macos": {
+        "additions": 1,
+        "deletions": 0
+      }
+    },
+    "2026-08-08": {
+      "BestSelf-Company/helm-focus-app": {
+        "additions": 9247,
+        "deletions": 448
+      },
+      "RonanRx/ronanrx-core": {
+        "additions": 3660,
+        "deletions": 955
+      },
+      "cathrynlavery/nontechnical-dev": {
+        "additions": 315,
+        "deletions": 241
+      },
+      "BestSelf-Company/goalgetter": {
+        "additions": 411,
+        "deletions": 0
+      }
+    },
+    "2026-08-06": {
+      "BestSelf-Company/helm-focus-app": {
+        "additions": 92,
+        "deletions": 0
+      },
+      "RonanRx/printing-press-library": {
+        "additions": 1070,
+        "deletions": 22
+      },
+      "cathrynlavery/nontechnical-dev": {
+        "additions": 987,
+        "deletions": 623
+      },
+      "BestSelf-Company/goalgetter": {
+        "additions": 60,
+        "deletions": 6
+      },
+      "cathrynlavery/non-technical-skill": {
+        "additions": 650,
+        "deletions": 32
+      }
+    },
+    "2026-08-05": {
+      "BestSelf-Company/helm-focus-app": {
+        "additions": 69,
+        "deletions": 0
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 1,
+        "deletions": 1
+      },
+      "BestSelf-Company/Helm-iOS": {
+        "additions": 100,
+        "deletions": 0
+      },
+      "BestSelf-Company/helm-macos": {
+        "additions": 4,
+        "deletions": 0
+      },
+      "cathrynlavery/littlemight": {
+        "additions": 4,
+        "deletions": 4
+      },
+      "cathrynlavery/repo-atlas": {
+        "additions": 135,
+        "deletions": 5
+      }
+    },
+    "2026-08-12": {
+      "RonanRx/ronanrx-core": {
+        "additions": 839,
+        "deletions": 29
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 2,
+        "deletions": 2
+      },
+      "cathrynlavery/diagram-design": {
+        "additions": 4820,
+        "deletions": 896
+      }
+    },
+    "2026-08-10": {
+      "RonanRx/ronanrx-core": {
+        "additions": 6891,
+        "deletions": 571
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 67430,
+        "deletions": 2442
+      },
+      "BestSelf-Company/bestself-theme": {
+        "additions": 25,
+        "deletions": 24
+      },
+      "cathrynlavery/agent-improvement-loop": {
+        "additions": 4613,
+        "deletions": 1437
+      },
+      "cathrynlavery/littlemight": {
+        "additions": 695,
+        "deletions": 45
+      }
+    },
+    "2026-08-07": {
+      "RonanRx/ronanrx-core": {
+        "additions": 272,
+        "deletions": 23742
+      },
+      "cathrynlavery/dot-agents": {
+        "additions": 1447,
+        "deletions": 0
+      },
+      "RonanRx/elitecarepharmacy.net": {
+        "additions": 944,
+        "deletions": 68
+      },
+      "cathrynlavery/nontechnical-dev": {
+        "additions": 196,
+        "deletions": 196
+      }
+    },
+    "2026-08-09": {
+      "BestSelf-Company/bestself-theme": {
+        "additions": 153,
+        "deletions": 65
+      },
+      "cathrynlavery/openclaw-workspace": {
+        "additions": 16186,
+        "deletions": 180
+      },
+      "cathrynlavery/nontechnical-dev": {
+        "additions": 38,
+        "deletions": 34
+      }
+    }
+  }
+}
